@@ -1,2 +1,0 @@
-# Drinks
-Created with CodeSandbox
